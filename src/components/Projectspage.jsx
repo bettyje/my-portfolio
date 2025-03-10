@@ -26,14 +26,7 @@ const projects = [
     github: 'https://github.com/bettyje/Battleship',
     liveDemo: 'https://battleshiptp.netlify.app/',
   },
-  {
-    name: 'Todo List Simple JS Project',
-    description:
-      'A simple To-Do List application with task management features.',
-    technologies: ['JavaScript', 'HTML', 'CSS'],
-    github: 'https://github.com/ARVLEMED/Todo-List-Simple-JS-Project',
-    liveDemo: 'https://arvlemed.github.io/Todo-List-Simple-JS-Project/',
-  },
+
   {
     name: 'Itothya Website Project',
     description:
@@ -42,7 +35,7 @@ const projects = [
     github: 'https://github.com/bettyje/Itothya-Website',
     liveDemo: 'https://itothya.netlify.app/',
   },
-  
+
   {
     name: 'Beauty Shop ',
     description: 'An E-Commerce Platform for Cosmetic Products.',
@@ -50,8 +43,6 @@ const projects = [
     github: 'https://github.com/bravvjr/beauty_shop_ecomm_website',
     liveDemo: 'https://beauty-shop-ecomm-website.onrender.com/',
   },
-  
-
 ]
 
 const Projects = () => {
