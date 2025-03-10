@@ -6,7 +6,7 @@ import logo from '../logo.webp'
 function Header() {
   return (
     <header className='header'>
-      <div className='logo'></div>
+      <div className=''></div>
       <nav>
         <ul className='nav-links'>
           <li>
