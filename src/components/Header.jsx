@@ -6,9 +6,7 @@ import logo from '../logo.webp'
 function Header() {
   return (
     <header className='header'>
-      <div className='logo'>
-        <img src={logo} alt='Arvle Med Logo' />
-      </div>
+      <div className='logo'></div>
       <nav>
         <ul className='nav-links'>
           <li>
